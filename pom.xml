@@ -11,16 +11,15 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ui-utils</artifactId>
-    <version>v0.1.0</version>
+    <version>0.1.0-SNAPSHOT</version>
     <name>Angular Ui Utils</name>
     <description>WebJar for Angular UI Utils</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <angularui.utils.version>v0.1.0</angularui.utils.version>
-        <angularui.utils.commit>3d82d25c7481647ccd99e55819a498c11eaab3d3</angularui.utils.commit>
-        <angularui.utils.sourceUrl>https://raw.github.com/angular-ui/ui-utils/${angularui.utils.commit}/dist</angularui.utils.sourceUrl>
+        <angularui.utils.version>0.1.0</angularui.utils.version>
+        <angularui.utils.sourceUrl>https://raw.github.com/angular-ui/ui-utils/v${angularui.utils.version}</angularui.utils.sourceUrl>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${angularui.utils.version}</destDir>
     </properties>
 

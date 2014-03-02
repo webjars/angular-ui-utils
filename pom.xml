@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ui-utils</artifactId>
-    <version>0.1.0-1-SNAPSHOT</version>
+    <version>0.1.0-1</version>
     <name>Angular Ui Utils</name>
     <description>WebJar for Angular UI Utils</description>
     <url>http://webjars.org</url>
@@ -48,7 +48,7 @@
         <url>https://github.com/webjars/angular-ui-utils</url>
         <connection>scm:git:https://github.com/webjars/angular-ui-utils.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-ui-utils.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-ui-utils-0.1.0-1</tag>
     </scm>
 
     <developers>
